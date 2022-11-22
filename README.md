@@ -1,5 +1,5 @@
-# Python-DSP 
+# Python-DSP -
 
-nom: bensadi
-prénom: houssem eddine
-groupe 01: 
+# nom: bensadi.
+# prénom: houssem eddine.
+# groupe 01.
